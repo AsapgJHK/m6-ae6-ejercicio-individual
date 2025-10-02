@@ -1,4 +1,4 @@
-# 🌡️ Conversor de Temperatura CLI (Node.js con Yargs y Chalk)
+# 🌡️ Conversor de Temperatura (Node.js con Yargs y Chalk)
 
 Este es un ejercicio individual para desarrollar una aplicación de línea de comandos (CLI) en Node.js, diseñada para convertir temperaturas entre grados Celsius (°C) y Fahrenheit (°F). La aplicación utiliza el paquete **Yargs** para el manejo de argumentos y validaciones, y **Chalk** para mejorar la legibilidad de los mensajes de consola con colores.
 
